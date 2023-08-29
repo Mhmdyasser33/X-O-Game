@@ -2,7 +2,6 @@
 
 This is a simple web-based X-O (Tic-Tac-Toe) game implemented using HTML, CSS, and JavaScript. Players can take turns marking cells with 'X' or 'O', and the first player to get three in a row, column, or diagonal wins.
 
-![Game Screenshot](screenshot.png)
 
 ## How to Play
 
